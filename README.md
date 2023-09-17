@@ -1,5 +1,3 @@
-# phalcon_fork_examples
-
 The repo shows how to use [Phalcon Fork](https://phalcon.xyz/fork).
 
 ## Phalcon Fork
