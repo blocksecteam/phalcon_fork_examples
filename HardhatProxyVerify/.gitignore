@@ -1,0 +1,9 @@
+vars.sh
+temp
+artifacts
+cache
+typechain-types
+node_modules
+.DS_Store
+.openzeppelin
+package-lock.json
