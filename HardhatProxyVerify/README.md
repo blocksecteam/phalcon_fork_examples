@@ -7,14 +7,14 @@ Install the required libraries.
 # npm install  
 ```
 
-Create a new Fork in [Phalcon](https://phalcon.blocksec.com) and then setup the necessary IDs.
+Create a new Fork in [Phalcon Fork](https://app.blocksec.com/fork) and then [setup the necessary IDs](https://docs.blocksec.com/phalcon/phalcon-fork/faq#how-to-get-the-necessary-api-keys-and-ids-for-integration).
 
 
 ```
 npx hardhat vars set PHALCON_RPC [RPC_URL]
 npx hardhat vars set PHALCON_API_KEY [API KEY]
 npx hardhat vars set PHALCON_API_URL https://api.phalcon.blocksec.com/api/[RPC_ID]
-npx hardhat vars set PHALCON_BROWSER_URL https://phalcon.blocksec.com/fork/scan/[FORK_ID]
+npx hardhat vars set PHALCON_BROWSER_URL app.blocksec.com/fork/scan/[FORK_ID]
 ```
 
 ## How to deploy and verify proxy contracts (Transparent Proxy)
