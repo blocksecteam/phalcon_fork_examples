@@ -69,7 +69,5 @@ https://phalcon.blocksec.com/fork/scan/fork_3e3f03e2a9404d36bf63ffdf8d4da7e7/add
 ```
 
 
-
-
-The deployed contract can be viewed here: [https://phalcon.blocksec.com/fork/scan/fork_3e3f03e2a9404d36bf63ffdf8d4da7e7](https://phalcon.blocksec.com/fork/scan/fork_3e3f03e2a9404d36bf63ffdf8d4da7e7)
+The deployed contract can be viewed here: [https://app.blocksec.com/fork/scan/fork_3e3f03e2a9404d36bf63ffdf8d4da7e7](https://app.blocksec.com/fork/scan/fork_3e3f03e2a9404d36bf63ffdf8d4da7e7)
 
